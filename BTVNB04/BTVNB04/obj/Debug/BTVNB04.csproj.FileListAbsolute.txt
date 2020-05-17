@@ -1,0 +1,6 @@
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\bin\Debug\BTVNB04.exe.config
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\bin\Debug\BTVNB04.exe
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\bin\Debug\BTVNB04.pdb
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\obj\Debug\BTVNB04.csprojAssemblyReference.cache
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\obj\Debug\BTVNB04.exe
+D:\WEB\BTVN_CSharp\BTVNB04\BTVNB04\obj\Debug\BTVNB04.pdb
