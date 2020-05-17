@@ -1,0 +1,6 @@
+D:\C#\BaiTest\BaiTest\bin\Debug\BaiTest.exe.config
+D:\C#\BaiTest\BaiTest\bin\Debug\BaiTest.exe
+D:\C#\BaiTest\BaiTest\bin\Debug\BaiTest.pdb
+D:\C#\BaiTest\BaiTest\obj\Debug\BaiTest.csprojAssemblyReference.cache
+D:\C#\BaiTest\BaiTest\obj\Debug\BaiTest.exe
+D:\C#\BaiTest\BaiTest\obj\Debug\BaiTest.pdb

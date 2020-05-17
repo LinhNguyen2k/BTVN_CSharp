@@ -1,0 +1,5 @@
+D:\C#\Buoi01\BaiTap02\BaiTap02\bin\Debug\BaiTap02.exe.config
+D:\C#\Buoi01\BaiTap02\BaiTap02\bin\Debug\BaiTap02.exe
+D:\C#\Buoi01\BaiTap02\BaiTap02\bin\Debug\BaiTap02.pdb
+D:\C#\Buoi01\BaiTap02\BaiTap02\obj\Debug\BaiTap02.exe
+D:\C#\Buoi01\BaiTap02\BaiTap02\obj\Debug\BaiTap02.pdb

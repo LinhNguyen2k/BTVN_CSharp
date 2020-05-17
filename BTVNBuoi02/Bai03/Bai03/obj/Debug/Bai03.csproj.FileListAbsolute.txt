@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Bai03\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\ASUS\source\repos\Bai03\Bai03\bin\Debug\Bai03.exe
+C:\Users\ASUS\source\repos\Bai03\Bai03\bin\Debug\Bai03.pdb
+C:\Users\ASUS\source\repos\Bai03\Bai03\obj\Debug\Bai03.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Bai03\Bai03\obj\Debug\Bai03.exe
+C:\Users\ASUS\source\repos\Bai03\Bai03\obj\Debug\Bai03.pdb
